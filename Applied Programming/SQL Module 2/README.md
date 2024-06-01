@@ -7,7 +7,7 @@ This software has a menu to help manage a database of employees and it helps mak
 I created this software for the ease of manipulating a database for the user.
 
 [Software Demo Video](https://www.youtube.com/watch?v=gHfXZYxK_nc)
-[Git Hub](https://github.com/noahcarrier1999/Applied-Programming.git)
+[Git Hub](https://github.com/noahcarrier1999/Applied-Programming-2024.git)
 
 # Development Environment
 
